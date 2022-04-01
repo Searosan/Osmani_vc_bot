@@ -36,7 +36,7 @@ async def _human_time_duration(seconds):
 async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/c1f364f23e17d5590ccd4.jpg",
-        caption=f"""**👋Sᴀʟᴀᴍᴀ' Wᴀxᴀᴀɴ Aʜᴀʏ 𝗢𝘀𝗺𝗮𝗻𝗶 𝗥𝗼𝗯𝗼𝘁 Bᴏᴛ Hᴇᴇɢᴀɴ ᴀʜ . Iɢᴜ Cᴀsᴜᴜᴍ Qᴏʟᴋᴀᴀɢᴀ Sɪ Aᴀɴ Kᴀᴀɢᴀ Cᴀᴀᴡɪʏᴏ Mᴀᴀᴍᴜʟɪᴅᴀ Gʀᴏᴜᴘ ᴋᴀᴀɢᴀ!...💙  Mᴀɴᴀɢᴇʀ Bᴏᴛ Rᴇᴀʟ [Rɪʙᴀᴊʀ](t.me/ribajosmani)😎Powered By [Osᴍᴀɴɪ Hᴇʟᴘᴇʀ](t.me/teamosmani) .....
+        caption=f"""**👋Sᴀʟᴀᴍᴀ' Wᴀxᴀᴀɴ Aʜᴀʏ Bᴏᴛ Hᴇᴇɢᴀɴ ᴀʜ . Iɢᴜ Cᴀsᴜᴜᴍ Qᴏʟᴋᴀᴀɢᴀ Sɪ Aᴀɴ Kᴀᴀɢᴀ Cᴀᴀᴡɪʏᴏ Mᴀᴀᴍᴜʟɪᴅᴀ Gʀᴏᴜᴘ ᴋᴀᴀɢᴀ!...💙  Mᴀɴᴀɢᴇʀ Bᴏᴛ Rᴇᴀʟ [F͜͡𝖆𝖗𝖒𝖆𝖆](t.me/Maahirmohamed)😎Powered By [Osᴍᴀɴɪ Hᴇʟᴘᴇʀ](t.me/teamosmani) .....
 **""",
     reply_markup=InlineKeyboardMarkup(
             [
@@ -50,7 +50,7 @@ async def start_(client: Client, message: Message):
                         "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/osmanibots"
                     ),
                     InlineKeyboardButton(
-                        "😎 Oᴡɴᴇʀ 😎", url="https://t.me/ribajosmani"
+                        "😎 Oᴡɴᴇʀ 😎", url="https://t.me/Maahirmohamed"
                     )
                 ],
                 [
