@@ -35,7 +35,7 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/c1f364f23e17d5590ccd4.jpg",
+        photo=f"https://telegra.ph/file/6b3999a2e4a7eded83161.jpg",
         caption=f"""**👋Sᴀʟᴀᴍᴀ' Wᴀxᴀᴀɴ Aʜᴀʏ Bᴏᴛ Hᴇᴇɢᴀɴ ᴀʜ . Iɢᴜ Cᴀsᴜᴜᴍ Qᴏʟᴋᴀᴀɢᴀ Sɪ Aᴀɴ Kᴀᴀɢᴀ Cᴀᴀᴡɪʏᴏ Mᴀᴀᴍᴜʟɪᴅᴀ Gʀᴏᴜᴘ ᴋᴀᴀɢᴀ!...💙  Mᴀɴᴀɢᴇʀ Bᴏᴛ Rᴇᴀʟ [F͜͡𝖆𝖗𝖒𝖆𝖆](t.me/Maahirmohamed)😎Powered By [Osᴍᴀɴɪ Hᴇʟᴘᴇʀ](t.me/teamosmani) .....
 **""",
     reply_markup=InlineKeyboardMarkup(
@@ -47,10 +47,10 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/osmanibots"
+                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/teamosmani"
                     ),
                     InlineKeyboardButton(
-                        "😎 Oᴡɴᴇʀ 😎", url="https://t.me/Maahirmohamed"
+                        "😎 Oᴡɴᴇʀ 😎", url="https://t.me/ribajosmani"
                     )
                 ],
                 [
